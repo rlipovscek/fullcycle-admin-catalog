@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.fullcycle.catalog.application.category.retrieve.get.GetCategoryByUseCaseTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-05-06T19:17:38" hostname="rodolpho-Z370M-AORUS-Gaming" time="0.005">
+  <properties/>
+  <testcase name="givenAValidCategoryId_whenCallGetCategoryMethod_thenGatewayReturnAException()" classname="com.fullcycle.catalog.application.category.retrieve.get.GetCategoryByUseCaseTest" time="0.001"/>
+  <testcase name="givenAInvalidCategoryID_whenCallGetCategoryMethod_thenShouldThrowANotFoundException()" classname="com.fullcycle.catalog.application.category.retrieve.get.GetCategoryByUseCaseTest" time="0.003"/>
+  <testcase name="givenAValidCategoryID_whenCallGetMethod_thenShouldReturnACategory()" classname="com.fullcycle.catalog.application.category.retrieve.get.GetCategoryByUseCaseTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

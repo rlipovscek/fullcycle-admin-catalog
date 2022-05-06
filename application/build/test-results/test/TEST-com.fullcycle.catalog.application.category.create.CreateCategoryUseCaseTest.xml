@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.fullcycle.catalog.application.category.create.CreateCategoryUseCaseTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2022-05-06T19:17:38" hostname="rodolpho-Z370M-AORUS-Gaming" time="0.008">
+  <properties/>
+  <testcase name="givenAValidCommandWithInactive_whenGatewayThrowsRandomException_shouldReturnAException()" classname="com.fullcycle.catalog.application.category.create.CreateCategoryUseCaseTest" time="0.002"/>
+  <testcase name="givenAValidCommandWithInactive_whenCallCreateCategory_shouldReturnAInactiveCategoryID()" classname="com.fullcycle.catalog.application.category.create.CreateCategoryUseCaseTest" time="0.001"/>
+  <testcase name="givenAValidCommand_whenCallCreateCategory_shouldReturnACategoryID()" classname="com.fullcycle.catalog.application.category.create.CreateCategoryUseCaseTest" time="0.001"/>
+  <testcase name="givenAInvalidName_whenCallsCreationCategoryUseCase_thenShouldReturnsADomainException()" classname="com.fullcycle.catalog.application.category.create.CreateCategoryUseCaseTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

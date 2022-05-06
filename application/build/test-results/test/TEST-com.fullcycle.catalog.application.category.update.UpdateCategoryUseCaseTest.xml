@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.fullcycle.catalog.application.category.update.UpdateCategoryUseCaseTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2022-05-06T19:17:38" hostname="rodolpho-Z370M-AORUS-Gaming" time="0.027">
+  <properties/>
+  <testcase name="givenAInvalidName_whenCallsUpdateCategoryUseCase_thenShouldReturnsADomainException()" classname="com.fullcycle.catalog.application.category.update.UpdateCategoryUseCaseTest" time="0.012"/>
+  <testcase name="givenAValidCommandWithAInvalidId_whenCallUpdateCategory_thenReturnADomainException()" classname="com.fullcycle.catalog.application.category.update.UpdateCategoryUseCaseTest" time="0.002"/>
+  <testcase name="givenAValidInactivateCommand_whenCallUpdateCategory_thenReturnACategoryID()" classname="com.fullcycle.catalog.application.category.update.UpdateCategoryUseCaseTest" time="0.005"/>
+  <testcase name="givenAValidInactivateCommand_whenCallUpdateCategory_thenReturnAIllegalException()" classname="com.fullcycle.catalog.application.category.update.UpdateCategoryUseCaseTest" time="0.003"/>
+  <testcase name="givenAValidCommand_whenCallUpdateCategory_thenReturnACategoryID()" classname="com.fullcycle.catalog.application.category.update.UpdateCategoryUseCaseTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
